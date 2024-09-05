@@ -1,7 +1,8 @@
-# Calculadora de carbono 
+# Calculadora de Carbono 
 
 
 Este projeto foi feito na IDE IntelliJ, linguagem Java, JavaScript e CSS. [^1]
+
 Objetivo: Calcular a quantidade de CO₂ emitida com base no consumo de energia de um dispositivo eletrônico. 
 O programa é interativo e ilustrativo para iniciantes, permitindo a entrada de valores pelo usuário.
 
